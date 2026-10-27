@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+    <head><title>famous Monument</title></head>
+    <body>
+        <figure><img src="" width="400" height="250" alt="description">
+            <figcaption>"figure 1:The Taj Mahal Agra-India"</figcaption>
+            </figure>
+            </body>
+            </html>
